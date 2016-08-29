@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    cout << "Cup of tea!" << endl;
+    cout << "Have a cup of majestic tea!" << endl;
     return 0;
 }
